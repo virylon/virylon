@@ -17,6 +17,9 @@ Here is my information. [Research Gate](https://www.researchgate.net/profile/Rui
 * GIS-based spatial prediction of landslide using road factors and random forest for Sichuan-Tibet Highway.  
   Chengming Ye, **Ruilong Wei***, Yonggang Ge, Yao Li, José Marcato Junior, Jonathan Li  
   _Journal of Mountain Science_ (JMS), 2021, [link](https://link.springer.com/article/10.1007/s11629-021-6848-6)  
+* A Self-Organizing-Map and One-Class SVM Based Non-landslide Samples Generation Method for Landslide Susceptibility Mapping  
+  Chengming Ye, Rong Tang, **Ruilong Wei**, Zixuan Guo, Huajun Zhang  
+  _Frontiers in Earth Science_, 2022
 * A Fast Progressive TIN Densification Filtering Algorithm for Airborne LiDAR Data using Adjacent Surface Information.  
   Hongfu Li, Chengming Ye, Zixuan Guo, **Ruilong Wei**, Lixuan Wang, Jonathan Li  
   _IEEE Journal of Selected Topics in Applied Earth Observations and Remote (J-Stars)_, 2021  
