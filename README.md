@@ -8,7 +8,7 @@ Here is my information. [Research Gate](https://www.researchgate.net/profile/Rui
 
 
 ## Selected Publication
-* Combining spatial response features and machine learning classifiers forlandslide susceptibility mapping.  
+* Combining spatial response features and machine learning classifiers for landslide susceptibility mapping.  
   **Ruilong Wei**, Chengming Ye*, Tianbo Sui, Yonggang Ge, Yao Li, Jonathan Li  
   _International Journal of Applied Earth Observations and Geoinformation_ (JAG), 2022, [link](https://www.sciencedirect.com/science/article/pii/S0303243422000071)  
 * An attention‑constrained neural network with overall cognition for landslide spatial prediction.  
