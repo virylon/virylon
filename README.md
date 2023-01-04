@@ -1,10 +1,10 @@
 ## Hi there 👋 I'm Ruilong Wei.
 
-✨I received MA.Eng. degree of Earth exploration and information technology from Chengdu University of Technology in 2022.
+🌱 I received MA.Eng. degree of Earth exploration and information technology from Chengdu University of Technology in 2022.
 
-✨My research interest is Remote Sensing and Deep Learning.  
+🔭 My research interest is Remote Sensing and Deep Learning.  
 
-Here is my information. [Research Gate](https://www.researchgate.net/profile/Ruilong-Wei) & [Google Scholar](https://scholar.google.co.jp/citations?user=s3dBvNIAAAAJ&hl=zh-CN)
+Here is my [Research Gate](https://www.researchgate.net/profile/Ruilong-Wei) & [Google Scholar](https://scholar.google.co.jp/citations?user=s3dBvNIAAAAJ&hl=zh-CN).
 
 
 ## Selected Publication
