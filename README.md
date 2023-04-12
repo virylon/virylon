@@ -1,5 +1,7 @@
 ## Hi there 👋 I'm Ruilong Wei.
 
+💬 I am a PhD student at Institute of Mountain Hazards and Environment, Chinese Academy of Sciences.  
+
 🌱 I received MA.Eng. degree of Earth exploration and information technology from Chengdu University of Technology in 2022.
 
 🔭 My research interest is Remote Sensing and Deep Learning.  
