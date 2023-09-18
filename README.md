@@ -18,7 +18,10 @@ Here is my [Research Gate](https://www.researchgate.net/profile/Ruilong-Wei) & [
   _Landslides_, 2022, [link](https://link.springer.com/article/10.1007/s10346-021-01841-z)  
 * GIS-based spatial prediction of landslide using road factors and random forest for Sichuan-Tibet Highway.  
   Chengming Ye, **Ruilong Wei***, Yonggang Ge, Yao Li, José Marcato Junior, Jonathan Li  
-  _Journal of Mountain Science_ (JMS), 2021, [link](https://link.springer.com/article/10.1007/s11629-021-6848-6)  
+  _Journal of Mountain Science_ (JMS), 2021, [link](https://link.springer.com/article/10.1007/s11629-021-6848-6)
+* A Super-Resolution Network for High-Resolution Reconstruction of Landslide Main Bodies in Remote Sensing Imagery Using Coordinated Attention Mechanisms and Deep Residual Blocks.
+  Huajun Zhang, Chengming Ye*, Yuzhan Zhou, Rong Tang, **Ruilong Wei**
+  _Remote Sensing_, 2023
 * Generating accurate negative samples for landslide susceptibility mapping: A combined self-organizing-map and one-class SVM method.  
   Chengming Ye, Rong Tang, **Ruilong Wei**, Zixuan Guo, Huajun Zhang  
   _Frontiers in Earth Science_, 2022
