@@ -11,7 +11,7 @@ Here is my [Research Gate](https://www.researchgate.net/profile/Ruilong-Wei) & [
 
 ## Selected Publication
 * Dynamic graph attention networks for point cloud landslide segmentation.  
-  **Ruilong Wei**, Chengming Ye*, Yonggang Ge, Yao Li, Jonathan Li
+  **Ruilong Wei**, Chengming Ye*, Yonggang Ge, Yao Li, Jonathan Li  
   _International Journal of Applied Earth Observations and Geoinformation_ (JAG), 2023, [link](https://www.sciencedirect.com/science/article/pii/S1569843223003667)  
 * A feature enhancement framework for landslide detection.  
   **Ruilong Wei**, Chengming Ye*, Tianbo Sui, Huajun Zhang, Yonggang Ge, Yao Li  
