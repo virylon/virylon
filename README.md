@@ -26,7 +26,7 @@ Here is my [Research Gate](https://www.researchgate.net/profile/Ruilong-Wei) & [
   Chengming Ye, **Ruilong Wei***, Yonggang Ge, Yao Li, José Marcato Junior, Jonathan Li  
   _Journal of Mountain Science_ (JMS), 2021, [link](https://link.springer.com/article/10.1007/s11629-021-6848-6)
 * Rock and ice avalanche-generated catastrophic debris flow at Chamoli, 7 February 2021: New insights from the geomorphic perspective. 
-  Hao Wang, Peng Cui, Yao Li, Jinbo Tang, **Ruilong Wei**, Anna Yang, Liqin Zhou, Nazir Ahmed Bazai, Guotao Zhang
+  Hao Wang, Peng Cui, Yao Li, Jinbo Tang, **Ruilong Wei**, Anna Yang, Liqin Zhou, Nazir Ahmed Bazai, Guotao Zhang  
   _Geomorphology_, 2024
 * A Super-Resolution Network for High-Resolution Reconstruction of Landslide Main Bodies in Remote Sensing Imagery Using Coordinated Attention Mechanisms and Deep Residual Blocks.  
   Huajun Zhang, Chengming Ye, Yuzhan Zhou, Rong Tang, **Ruilong Wei**  
