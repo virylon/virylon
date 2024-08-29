@@ -28,7 +28,7 @@ Here is my [Research Gate](https://www.researchgate.net/profile/Ruilong-Wei) & [
 * Dependence of debris flow susceptibility maps on sampling strategy with data-driven grid-based model.  
   Ning Jiang, Fenghuan Su,*, **Ruilong Wei**, Yu Huang, Wen Jin, Peng Huang, Qing Zeng
   _Ecological Indicators_, 2024
-  * Spatio-temporal change monitoring for surface water on the Qinghai-Tibet Plateau from 1990 to 2020 using remote sensing.  
+* Spatio-temporal change monitoring for surface water on the Qinghai-Tibet Plateau from 1990 to 2020 using remote sensing.  
   Tianbo Sui, Chengming Ye, Rong Tang, **Ruilong Wei**  
   _Frontiers in Earth Science_, 2023
 * Generating accurate negative samples for landslide susceptibility mapping: A combined self-organizing-map and one-class SVM method.  
