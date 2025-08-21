@@ -12,7 +12,7 @@ Here is my [Research Gate](https://www.researchgate.net/profile/Ruilong-Wei) & [
 ## Selected Publication
 * Edge-attentive graph convolutional network and positive-unlabeled framework for landslide susceptibility mapping.  
   **Ruilong Wei**, Yamei Li*, Yao Li, Zili Wang, Chunhao Wu, Jiao Wang, Bo Zhang, Chengming Ye  
-  _Gondwana Research_ (GW), 2026, [link](https://linkinghub.elsevier.com/retrieve/pii/S1342937X25002394)  
+  _Gondwana Research_ (GW), 2025, [link](https://linkinghub.elsevier.com/retrieve/pii/S1342937X25002394)  
 * A universal adapter in segmentation models for transferable landslide mapping.  
   **Ruilong Wei**, Yamei Li*, Yao Li, Bo Zhang, Jiao Wang, Chunhao Wu, Shunyu Yao, Chengming Ye  
   _ISPRS Journal of Photogrammetry and Remote Sensing_ (ISPRS), 2024, [link](https://www.sciencedirect.com/science/article/pii/S0924271624004143)  
